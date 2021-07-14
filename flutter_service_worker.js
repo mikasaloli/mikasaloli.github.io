@@ -4,9 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "4c7ac2b4a47f56ae19e03c493313909a",
-"index.html": "2aa65fc5da1baa6855b38d3ef5693cc9",
-"/": "2aa65fc5da1baa6855b38d3ef5693cc9",
-"main.dart.js": "fd699bed31367a192c37dc7ac042f7df",
+"index.html": "99b873063031c0bf0c2425f2f0397ecc",
+"/": "99b873063031c0bf0c2425f2f0397ecc",
+"main.dart.js": "fd07d0bbb0b7b10509965bd6a1825633",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
@@ -372,7 +372,7 @@ const RESOURCES = {
 "assets/assets/images/offer3.jpg": "72afdd43bd605339339fc27f61618fe4",
 "assets/assets/images/bg.png": "095fa9a723c516c11696677c87ee61b3",
 "assets/assets/images/offer2.jpg": "72afdd43bd605339339fc27f61618fe4",
-"assets/assets/translations/lo-LA.json": "179ca040c1e19aff793776fe91e43f0b",
+"assets/assets/translations/lo-LA.json": "2a5f36b398bdcb564812e9930f4fb50c",
 "assets/assets/translations/en-US.json": "cb18692c31988056b688f18b7163b924"
 };
 
