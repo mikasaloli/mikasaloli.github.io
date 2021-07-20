@@ -227,5 +227,6 @@
   "Payment_proof_has_been_rejected_Please_pay_and_upload_new_one": "Please recheck and follow the instructions then please upload again",
   "out_of_stock": "Out of Stock",
   "waiting_for_payment": "waiting for payment",
-  "enter_details": "Enter Details"
+  "enter_details": "Enter Details",
+  "discount": "You will save K{} on this order"
 }

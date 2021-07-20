@@ -227,5 +227,6 @@
   "Payment_proof_has_been_rejected_Please_pay_and_upload_new_one": "ກະລຸນາກວດຄືນ ແລະ ປະຕິບັດຕາມຄຳແນະນຳ ຫຼັງຈາກນັ້ນໃຫ້ອັບໂຫຼດອີກເທື່ອໜຶ່ງ",
   "out_of_stock": "ຂໍອະໄພ! ສິນຄ້າໝົດຊົ່ວຄາວ",
   "waiting_for_payment": "ລໍຖ້າຊຳລະເງິນ",
-  "enter_details": "ລາຍ ລະ ອຽດ"
+  "enter_details": "ລາຍ ລະ ອຽດ",
+  "discount": "ປະຢັດໄດ້ K{} ໃນລາຍການສັ່ງຊື້ນີ້"
 }
