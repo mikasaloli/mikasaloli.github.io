@@ -8593,7 +8593,7 @@ return P.z(L.aDW(),$async$aCG)
 case 2:D.aYU()
 $.aD8().a.T4("618983122044933",!0,"v9.0",!0)
 window.localStorage
-q={clientId:"live.megako.web",scope:"name",redirectURI:"https://megako.online/megakoweb/index.html",usePopup:!0}
+q={clientId:"live.megako.web",scope:"name",redirectURI:"https://mikasaloli.github.io/",usePopup:!0}
 J.aPM(AppleID.auth,q)
 q=H.a([new P.ep("en",null,"US"),new P.ep("lo",null,"LA")],t.ss)
 p=H.a([R.dm(null,new F.aCI(),t.ij),R.dm(null,new F.aCJ(),t.RP)],t.uJ)
