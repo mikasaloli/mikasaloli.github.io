@@ -78548,7 +78548,7 @@ this.tr()},
 A:function(a,b){var s=null
 return M.du(s,s,R.dm(new T.cZ(new T.awq(this),s),new T.awr(this),t.C),s)}}
 T.aws.prototype={
-$0:function(){return"https://megako.online/ProductDetails/"+this.a.a.c},
+$0:function(){return"megako://ProductDetails/"+this.a.a.c},
 $S:23}
 T.awr.prototype={
 $1:function(a){var s=$.a_().$1$0(t.C)
@@ -80007,7 +80007,7 @@ F.afl.prototype={
 $1:function(a){return new Z.vp(null)},
 $S:667}
 Z.aD8.prototype={
-$0:function(){return"https://megako.online/ProductDetails/"+this.a},
+$0:function(){return"megako://ProductDetails/"+this.a},
 $S:23}
 Z.aBM.prototype={
 $1:function(a){var s=this.a
