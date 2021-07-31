@@ -79985,7 +79985,7 @@ F.afl.prototype={
 $1:function(a){return new Z.vp(null)},
 $S:667}
 Z.aD7.prototype={
-$0:function(){return"megako://ProductDetails/"+this.a},
+$0:function(){return"https://megako.online/ProductDetails/"+this.a},
 $S:33}
 Z.aBL.prototype={
 $1:function(a){var s=this.a
